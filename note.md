@@ -62,4 +62,16 @@
 
 ---
 
-BUild 
+## Build my agent
+Steps of Ai Gent
+1. Receive Prompt
+2. Parse Prompt for Intent
+3. Search web for Intent
+4. Parse Search Results for Appropriate Sites
+5. Browse Sites and gather info
+6. Summarize Relevant Info
+7. Generate Email for the summary
+8. Send Email
+
+### Tools used
+
